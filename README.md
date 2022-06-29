@@ -37,5 +37,5 @@
 
 ## week 14 
 - 깊이우선탐색과 너비우선탐색 구현 
-   - bfs.py
-   - dfs.py 
+   - dfs.py
+   - bfs.py 
